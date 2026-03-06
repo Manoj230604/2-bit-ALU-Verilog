@@ -1,2 +1,23 @@
-# 2-bit-ALU-Verilog
-2-bit Arithmetic Logic Unit designed in Verilog with simulation using EDA Playground.
+# 2-bit ALU Design in Verilog
+
+This project implements a 2-bit Arithmetic Logic Unit (ALU) using Verilog HDL.
+
+## Operations Implemented
+- Addition
+- Subtraction
+- AND
+- OR
+- XOR
+
+## Tools Used
+- Verilog HDL
+- EDA Playground
+- EPWave
+
+## Simulation Waveform
+
+![Waveform](Waveform.png)
+
+## Author
+Manoj U K  
+Electronics and Communication Engineering
